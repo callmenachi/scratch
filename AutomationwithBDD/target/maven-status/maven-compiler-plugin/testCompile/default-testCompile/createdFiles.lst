@@ -1,0 +1,6 @@
+pageObjects\LoginPage.class
+pageObjects\TakeScreenshot.class
+stepDefinitions\steps_loginpage.class
+testRunner\TestRun.class
+pageObjects\HomePage.class
+stepDefinitions\BaseClass.class

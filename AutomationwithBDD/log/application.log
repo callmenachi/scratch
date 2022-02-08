@@ -1,0 +1,7 @@
+2022-01-13 19:03:49,050 [main] INFO concerto - Launching Browser
+2022-01-13 19:03:49,099 [main] INFO concerto - Opening URL
+2022-01-13 19:03:50,109 [main] INFO concerto - Enter the Username
+2022-01-13 19:03:50,376 [main] INFO concerto - Click the Next Button
+2022-01-13 19:03:50,477 [main] INFO concerto - Enter the Password
+2022-01-13 19:03:50,770 [main] INFO concerto - Click the Sign-in Button
+2022-01-13 19:03:52,349 [main] INFO concerto - closing the browser
